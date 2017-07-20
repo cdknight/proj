@@ -1,6 +1,5 @@
 # proj
 
-<h1>proj</h1>
 
 
 Welcome to proj, the project manager (and maybe, eventually a package manager)
