@@ -113,7 +113,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="..\src\main.cpp" />
-    <ClCompile Include="filter.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\src\commit.h" />
